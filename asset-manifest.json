@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/main/static/css/main.9c5ea9c8.css",
-    "main.js": "/main/static/js/main.258b162c.js",
-    "static/js/453.24e14e44.chunk.js": "/main/static/js/453.24e14e44.chunk.js",
-    "static/media/rick-morty.png": "/main/static/media/rick-morty.ed9fa0be01b38da56af4.png",
-    "index.html": "/main/index.html",
-    "main.9c5ea9c8.css.map": "/main/static/css/main.9c5ea9c8.css.map",
-    "main.258b162c.js.map": "/main/static/js/main.258b162c.js.map",
-    "453.24e14e44.chunk.js.map": "/main/static/js/453.24e14e44.chunk.js.map"
+    "main.css": "/LaboratorioReact/static/css/main.9c5ea9c8.css",
+    "main.js": "/LaboratorioReact/static/js/main.688452ca.js",
+    "static/js/453.24e14e44.chunk.js": "/LaboratorioReact/static/js/453.24e14e44.chunk.js",
+    "static/media/rick-morty.png": "/LaboratorioReact/static/media/rick-morty.ed9fa0be01b38da56af4.png",
+    "index.html": "/LaboratorioReact/index.html",
+    "main.9c5ea9c8.css.map": "/LaboratorioReact/static/css/main.9c5ea9c8.css.map",
+    "main.688452ca.js.map": "/LaboratorioReact/static/js/main.688452ca.js.map",
+    "453.24e14e44.chunk.js.map": "/LaboratorioReact/static/js/453.24e14e44.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9c5ea9c8.css",
-    "static/js/main.258b162c.js"
+    "static/js/main.688452ca.js"
   ]
 }
